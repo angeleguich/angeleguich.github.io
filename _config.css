@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 
+p {
+  color: blue;
+}
+
