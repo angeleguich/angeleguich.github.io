@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" type="text/css" href="config.css">
 <div class="container"> 
   <header>Welcome!</header> 
   <nav>Links!</nav> 
