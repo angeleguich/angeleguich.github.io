@@ -3,14 +3,14 @@
   </head>
   <p> Le coeur volé
 
-Mon triste coeur bave à la poupe,
-Mon coeur couvert de caporal :
-Ils y lancent des jets de soupe,
-Mon triste coeur bave à la poupe :
-Sous les quolibets de la troupe
-Qui pousse un rire général,
-Mon triste coeur bave à la poupe,
-Mon coeur couvert de caporal !
+Mon triste coeur bave à la poupe,<br/>
+Mon coeur couvert de caporal :<br/>
+Ils y lancent des jets de soupe,<br/>
+Mon triste coeur bave à la poupe :<br/>
+Sous les quolibets de la troupe<br/>
+Qui pousse un rire général,<br/>
+Mon triste coeur bave à la poupe,<br/>
+Mon coeur couvert de caporal !<br/>
 
 Ithyphalliques et pioupiesques
 Leurs quolibets l'ont dépravé !
