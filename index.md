@@ -1,4 +1,12 @@
 
+<div class="container"> 
+  <header>Welcome!</header> 
+  <nav>Links!</nav> 
+  <section class="info">Info!</section> 
+ <section class="services">Services!</section> 
+ <footer>Contact us!</footer>
+</div>
+
 <body> 
   <head>
 <h1> Welcome to Angèle Guicharnaud's website ! </h1>
