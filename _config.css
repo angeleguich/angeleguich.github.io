@@ -1,4 +1,8 @@
-theme: jekyll-theme-cayman
+.grid { 
+display: grid; 
+width: 500px; 
+grid-template-columns: 100px 200px; 
+}
 
 h1 {
   color: blue;
