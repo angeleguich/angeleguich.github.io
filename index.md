@@ -12,23 +12,24 @@ Qui pousse un rire général,<br/>
 Mon triste coeur bave à la poupe,<br/>
 Mon coeur couvert de caporal !<br/>
 
-Ithyphalliques et pioupiesques
-Leurs quolibets l'ont dépravé !
-Au gouvernail on voit des fresques
-Ithyphalliques et pioupiesques.
-Ô flots abracadabrantesques,
-Prenez mon coeur, qu'il soit lavé !
-Ithyphalliques et pioupiesques
-Leurs quolibets l'ont dépravé !
+Ithyphalliques et pioupiesques <br/>
+Leurs quolibets l'ont dépravé !<br/>
+Au gouvernail on voit des fresques <br/>
+Ithyphalliques et pioupiesques.<br/>
+Ô flots abracadabrantesques, <br/>
+Prenez mon coeur, qu'il soit lavé ! <br/>
+Ithyphalliques et pioupiesques <br/>
+Leurs quolibets l'ont dépravé ! <br/>
 
-Quand ils auront tari leurs chiques,
-Comment agir, ô coeur volé ?
-Ce seront des hoquets bachiques
-Quand ils auront tari leurs chiques :
-J'aurai des sursauts stomachiques,
-Moi, si mon coeur est ravalé :
-Quand ils auront tari leurs chiques
-Comment agir, ô coeur volé ? 
+Quand ils auront tari leurs chiques, <br/>
+Comment agir, ô coeur volé ? <br/>
+Ce seront des hoquets bachiques <br/>
+Quand ils auront tari leurs chiques : <br/>
+J'aurai des sursauts stomachiques, <br/>
+Moi, si mon coeur est ravalé : <br/>
+Quand ils auront tari leurs chiques <br/>
+Comment agir, ô coeur volé ? <br/>
+Arthur Rimbaud
 </p>
 
 
