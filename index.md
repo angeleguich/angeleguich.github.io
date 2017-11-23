@@ -1,5 +1,6 @@
-<title> Kikoo</title>
-<head>
+
+<body> 
+  <head>
 <h1> Welcome to Angèle Guicharnaud's website ! </h1>
   </head>
   <p> Le coeur volé
@@ -33,5 +34,13 @@ Comment agir, ô coeur volé ? <br/>
 
 Arthur Rimbaud
 </p>
+</body>
+<footer>
+  <ul>
+    <li>Contact</li>
+    <li>Facebook</li>
+    <li>Twitter</li>
+  </ul>
+  </footer>
 
 
